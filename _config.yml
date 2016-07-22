@@ -1,9 +1,19 @@
-layout_spectrum: 0.3656864198856056
-typography_spectrum: 0.33479276788420975
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8028674
 color:
-  brandStrength: 0.14492710819467902
-  lightness: 0.868453036993742
   saturation: 0.9899909412488341
+  brandStrength: 0.144927108194679
   rhythmicContrast: 0.7628348306752741
   brandColors:
     - '#000000'
@@ -11,4 +21,6 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+  lightness: 0.868453036993742
+layout_spectrum: 0.3656864198856056
 name: Arno
