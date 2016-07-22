@@ -1,14 +1,14 @@
-layout_spectrum: 0.9930502758361399
-typography_spectrum: 0.6114068266469985
+layout_spectrum: 0.3656864198856056
+typography_spectrum: 0.33479276788420975
 color:
-  brandStrength: 0.8948774232994765
-  lightness: 0.6192000107839704
-  saturation: 0.17700634198263288
-  rhythmicContrast: 0.5155766156967729
+  brandStrength: 0.14492710819467902
+  lightness: 0.868453036993742
+  saturation: 0.9899909412488341
+  rhythmicContrast: 0.7628348306752741
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: Arno
